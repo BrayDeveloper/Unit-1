@@ -11,6 +11,10 @@ body {
   color: #222;
   background: #f7f5f0;
 }
+
+.profile-image {
+  transition: ease-in;
+}
 /* Link Styles */
 
 a {
